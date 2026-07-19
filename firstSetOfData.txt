@@ -1,0 +1,2 @@
+This is the first set of data that we are writing inside this file
+Let us learn the git concepts efficiently so that we all can understand the things very clearly
