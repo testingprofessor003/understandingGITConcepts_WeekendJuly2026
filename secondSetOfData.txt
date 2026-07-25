@@ -1,3 +1,5 @@
 This was the second file that we are creating for understanding the new set of operations
 Everyone shall be clear about resolving the conflicts in detail
 New set of lines were added to the data file where we need to have an understanding
+This is the second file that we are creating for understanding the new set of operations
+Adding another line of data for demonstrating conflicts
