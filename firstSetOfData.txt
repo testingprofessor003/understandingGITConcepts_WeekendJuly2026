@@ -1,2 +1,1 @@
-This is the first set of data that we are writing inside this file
-Let us learn the git concepts efficiently so that we all can understand the things very clearly
+Sample Information on the PRD Documents for Payments related scenarios will be dealt
