@@ -1,2 +1,2 @@
-This is the first set of data that we are writing inside this file
-Let us learn the git concepts efficiently so that we all can understand the things very clearly
+Sample set of information about the git processing and the git techniques that we need to follow
+New set of data and ideologies have to be implemented at peace
