@@ -1,0 +1,1 @@
+Herew we are tying to merge all the c ommits into a single commit while merging between branhes
