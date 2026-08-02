@@ -1,3 +1,3 @@
-Sample set of information about the git processing and the git techniques that we need to follow
+Samples of set fo set of information about the git processing and the git techniques that we need to follow
 New set of data and ideologies have to be implemented at peace
 Sample Information on the PRD Documents for Payments related scenarios will be dealt
