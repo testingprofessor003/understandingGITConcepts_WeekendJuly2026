@@ -16,3 +16,5 @@ Sam
 No more things were required to perform another set of actions that is required
 ple Set of Data in Making and understanding more about the git concepts here, ensuring the concepts are very clear from all the sides
 
+
+No Commit Messages are required for the given set of operations
